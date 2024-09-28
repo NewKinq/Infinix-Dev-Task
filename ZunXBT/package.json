@@ -1,0 +1,14 @@
+{
+  "name": "zunxbt",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@infinit-xyz/cli": "^0.0.0-alpha.8"
+  }
+}
